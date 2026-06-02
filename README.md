@@ -34,10 +34,7 @@ $dion = [
 ];
 ```
 
-- Specializing in **Laravel** & **Flutter**
-- Passionate about clean, maintainable code
-- Open for collaboration & freelance projects
-- 49 public repositories and counting
+
 
 <br clear="right"/>
 
