@@ -90,26 +90,6 @@ $dion = [
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DionAhza&bg_color=0d1117&color=6ee7b7&line=6ee7b7&point=ffffff&area=true&area_color=064e3b&hide_border=true" />
 </div>
 
----
-
-### Pinned Projects
-
-<div align="center">
-
-[![crygle_web](https://github-readme-stats.vercel.app/api/pin/?username=DionAhza&repo=crygle_web&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6ee7b7&icon_color=6ee7b7&text_color=9ca3af)](https://github.com/DionAhza/crygle_web)
-[![SKL-IDN-WEB](https://github-readme-stats.vercel.app/api/pin/?username=DionAhza&repo=SKL-IDN-WEB&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6ee7b7&icon_color=6ee7b7&text_color=9ca3af)](https://github.com/DionAhza/SKL-IDN-WEB)
-
-</div>
-
----
-
-### Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DionAhza&theme=darkhub&no-frame=true&row=1&column=6&no-bg=true" />
-</div>
-
----
 
 <div align="center">
 
